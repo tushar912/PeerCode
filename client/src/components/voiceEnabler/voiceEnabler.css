@@ -1,0 +1,16 @@
+.mute-button {
+    background-color: #d93025;
+    border-radius: 50%;
+    box-shadow: 0 4px 8px #00000029;
+    height: 60px;
+    width: 60px;
+  }
+  
+  .voice-enabler-row {
+    border: 0.1rem solid #00000010;
+    border-radius: 0.4rem;
+    box-shadow: 0 6px 10px #00000029;
+    margin-bottom: 1.5rem;
+    max-width: 290px;
+    padding: 1rem 0;
+  }

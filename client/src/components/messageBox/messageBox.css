@@ -1,0 +1,53 @@
+.message-input-row {
+    border: 0.1rem solid #00000010;
+    border-radius: 0.4rem;
+    box-shadow: 0 8px 15px #00000029;
+    margin-bottom: 1.5rem;
+  
+    
+  }
+  .form-control:focus {
+    
+      box-shadow: 0 0 0 0 white;
+    
+  }
+
+  #messageFormBasicText {
+    border: 0;
+  }
+  .message-submit-button-container {
+    margin-left: auto;
+    text-align: right;
+  }
+  
+  .message-button {
+    margin-top: 0;
+  }
+  
+  .message-list {
+    height: 400px;
+    padding-top: 1rem;
+    overflow-y: auto;
+  
+    
+  }
+  .message-container {
+    max-width: 90%;
+    padding-bottom: 0.3rem;
+    padding-left: 1.6rem;
+    text-align: left;
+
+   
+  }
+  .message-list h6 {
+    font-size: 1.2rem;
+    font-weight: 600;
+  }
+
+  .message-list p {
+    margin-top: -0.4rem;
+    padding-top: 0;
+  }
+  .message-bottom-scroll {
+    height: 100px;
+  }
